@@ -1,0 +1,2 @@
+# XMLAssertionTestData
+AMLAsserstion test data
